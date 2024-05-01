@@ -1,4 +1,8 @@
-Ultimate Guide to Choosing the Right Rental Script for Your Business
+![Rental-Script-Sangvish](https://github.com/sangvishtechnologies/rental-script/assets/161323540/d90a0bda-163d-454a-9d5c-338c4dc53d8a)
+
+
+<h1 align="center"> Ultimate Guide to Choosing the Right Rental Script for Your Business </h1> 
+
 In the fast-paced rental industry, efficiency and effectiveness are essential. if you're handling equipment, assets, or vehicles, having an appropriate rental script will greatly impact you. This guide aims to guide you via the labyrinth of alternatives and assist you in pinpointing the[ best rental script](https://sangvish.com/rental-script/) for your business requirements.
 
 # What is a Rental Script?
@@ -13,7 +17,7 @@ We recognize that each rental business is unique. Our rental script is fully adj
 * **Security:**
 Safeguarding your data is our main priority. Our rental script uses cutting-edge security features to keep your information secure and confidential.
 
-
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“rentalscript.png" src="https://github.com/sangvishtechnologies/rental-script/blob/main/images/rental-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 ## Advantages of Using a Rental Script
 Now that you understand what a[ rental script](https://sangvish.com/rental-script/) is and why you should select us, let us look at the benefits of utilizing one for your business:
@@ -76,5 +80,8 @@ Modify the platform's branding, style, and functionality based on company demand
 Keep the rental script up to date by doing frequent software upgrades, bug patches, and maintenance chores.
 * **Integration and Scalability:** 
 Integrate third-party services, APIs, and tools to expand the platform's capabilities and scalability.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“rentalscript.png" src="https://github.com/sangvishtechnologies/rental-script/blob/main/images/best-rental-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ### Conclusion:
 In conclusion, selecting a suitable[ rental script](https://sangvish.com/rental-script/) is important for the success of your rental business. A rental script may help your business reach new heights by simplifying procedures, improving the client experience, and providing useful information.[ Sangvish](https://sangvish.com/)’s rental script helps you to reach your business goals, improving the client experience, and improve your revenue.
